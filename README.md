@@ -20,5 +20,5 @@
 3. + 添加代码到缓存
     + git add ...
     + git restore --staged README.md
-4. git commit 把文件放好
+4. git commit -m "往README.md中添加分支的使用方法"
 5. git push origin bendi 分支 (第一次push:git push --set-upstream origin lzf_demo_1013)
