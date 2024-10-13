@@ -22,3 +22,5 @@
     + git restore --staged README.md
 4. git commit -m "往README.md中添加分支的使用方法"
 5. git push origin bendi 分支 (第一次push:git push --set-upstream origin lzf_demo_1013)
+
+6. 手动创建PR. 并叫commiter 合入.
