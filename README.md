@@ -11,7 +11,7 @@
 5. e   
 
 # Develop 分支的工作
-怎么提交分支
+## 怎么提交分支
 1. 分支创建
     + 创建分支 git branch lzf_fenzhi_1013
     + 切换到这个分支 git checkout lzf_fenzhi_1013
